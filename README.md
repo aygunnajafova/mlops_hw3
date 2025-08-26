@@ -198,7 +198,3 @@ For technical support or questions:
 - Check the troubleshooting section
 - Review Docker logs for error details
 - Verify AWS configuration and permissions
-
----
-
-**Built with ❤️ using FastAPI, Streamlit, and AWS Bedrock**
